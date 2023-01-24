@@ -6,7 +6,7 @@
 // int result_deg=0;
 int degree(int A, int B)
 {
-    int deg= 0;
+    
     int result_deg = 1;
     for (int i = 0; i < B; i++)
     {
